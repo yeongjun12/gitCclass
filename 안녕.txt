@@ -1,0 +1,7 @@
+public Class 안녕{
+
+	System.out.println("ㅎㅇㅎㅇ");
+
+
+
+}
